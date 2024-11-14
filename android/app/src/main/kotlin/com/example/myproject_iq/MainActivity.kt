@@ -1,4 +1,4 @@
-package com.example.myproject_iq
+package com.myproject.iq
 
 import io.flutter.embedding.android.FlutterActivity
 
